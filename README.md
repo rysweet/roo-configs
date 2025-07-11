@@ -1,0 +1,1 @@
+This repository contains example configuration and rules files for Roo Code.
